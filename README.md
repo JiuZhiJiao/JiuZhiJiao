@@ -72,7 +72,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 
 ![](https://img.shields.io/badge/SWIFT-5.6.2-red?style=flat&logo=swift&logoColor=red)
-![](https://img.shields.io/badge/-VUE-1.1-green?style=flat&logo=vuedotjs&logoColor=fff)
+![](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)
 
 ---
 
