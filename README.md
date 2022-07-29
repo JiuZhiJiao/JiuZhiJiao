@@ -39,18 +39,24 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧑🏻‍💻 About Me :
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+- :zap: iOS | Vue
 
-**Info**
+---
 
-🧑🏻‍💻 JiuZhiJiao
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons//swift/swift-original.svg" title="Swift" **alt="Swift" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>
+</div>
 
-
-**Languages & Tools**
 
 ![](https://img.shields.io/badge/SWIFT-5.6.2-red?style=flat&logo=swift&logoColor=orange)
 
+---
+
+### :fire: My Stats :
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JiuZhiJiao&show_icons=true&count_private=true&hide=prs&theme=vue&include_all_commits=true" alt="JiuZhi's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiuZhiJiao&layout=compact&theme=vue&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
