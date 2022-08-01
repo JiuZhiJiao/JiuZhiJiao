@@ -56,7 +56,7 @@ My name is [JiuZhiJiao](https://jiuzhijiao.github.io/), a Developer <img src="ht
 <img src="https://komarev.com/ghpvc/?username=JiuZhiJiao&style=flat&color=blue" alt=""/>
 
 - 🔭 I’m currently working on 🇨🇳CEC
-- 🌱 I’m currently learning: ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)
+- 🌱 I’m currently learning 👉 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)
 ![](https://img.shields.io/badge/-SwiftUI-4fc08d?style=flat&logo=swift&color=orange)
 ![](https://img.shields.io/badge/-AUTOSAR-4fc08d?style=flat&logo=automattic&color=red)
 ![](https://img.shields.io/badge/-ES-4fc08d?style=flat&logo=Raspberry%20Pi&color=blue)
