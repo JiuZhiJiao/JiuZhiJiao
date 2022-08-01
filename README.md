@@ -1,6 +1,6 @@
-
+<!--
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   
   <div id="badges">
   <a href="your-linkedin-URL">
@@ -17,11 +17,19 @@
   <img src="https://komarev.com/ghpvc/?username=JiuZhiJiao&style=flat-square&color=blue" alt=""/>
   
 </div>
+-->
 
 
+<div id="top">
+  <h3>
+  Hi there 👋 Welcome to my page 👉 
+    <a href="https://jiuzhijiao.github.io/">
+      <img src="https://img.shields.io/badge/JiuZhiJiao-github.io-blue?style=flat-square&logo=google%20chrome&logoColor=white" alt="JiuZhiJiao's Blog" />
+    </a>
+  </h3>
+</div>
 
-
-### Hi there 👋
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
 <!--
 **JiuZhiJiao/JiuZhiJiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,10 +49,27 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-![](https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djiuzhijiao)
 
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
-- :zap: iOS | Vue
+My name is [JiuZhiJiao](https://jiuzhijiao.github.io/), a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+
+![](https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djiuzhijiao)
+<img src="https://komarev.com/ghpvc/?username=JiuZhiJiao&style=flat&color=blue" alt=""/>
+
+- 🔭 I’m currently working on 🇨🇳CEC
+- 🌱 I’m currently learning: ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)
+![](https://img.shields.io/badge/-SwiftUI-4fc08d?style=flat&logo=swift&color=orange)
+![](https://img.shields.io/badge/-AUTOSAR-4fc08d?style=flat&logo=automattic&color=red)
+![](https://img.shields.io/badge/-ES-4fc08d?style=flat&logo=Raspberry%20Pi&color=blue)
+- 🤔 I’m looking for help with Autopilot
+- 📫 How to reach me: jiuzhijiao@gmail.com
+- ⚡ Fun fact: Video Games 👉 
+![](https://img.shields.io/badge/-Genshin%20Impact-4fc08d?style=flat&logo=epic%20games&color=blue)
+![](https://img.shields.io/badge/-Overwatch-4fc08d?style=flat&logo=xbox)
+![](https://img.shields.io/badge/-LoL-4fc08d?style=flat&logo=riot%20games&color=red)
+- 😄 Want to improve skills 👉 
+![](https://img.shields.io/badge/App-iOS-orange?style=flat)
+![](https://img.shields.io/badge/Web-Vue-4fc08d?style=flat)
+![](https://img.shields.io/badge/Design-UI-blue?style=flat)
 
 ---
 
@@ -70,14 +95,18 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 
-
-![](https://img.shields.io/badge/SWIFT-5.6.2-red?style=flat&logo=swift&logoColor=red)
-![](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)
-
 ---
 
 ### :fire: My Stats :
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JiuZhiJiao&show_icons=true&count_private=true&hide=prs&theme=vue&include_all_commits=true" alt="JiuZhi's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiuZhiJiao&layout=compact&theme=vue&hide=jupyter%20notebook" /></a> |
-| ------------- | ------------- |
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JiuZhiJiao&show_icons=true&count_private=true&hide=prs&theme=vue&include_all_commits=true" alt="JiuZhi's Github Stats" /></a></td>
+        <td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiuZhiJiao&layout=compact&theme=vue&hide=jupyter%20notebook" /></a></td>
+    <tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/JiuZhiJiao/github-readme-activity-graph"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=JiuZhiJiao&theme=xcode&hide_border=true" alt="JiuZhi's github activity graph"/></a></td>
+    <tr>
+</table>
+
 
